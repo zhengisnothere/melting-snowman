@@ -5,7 +5,7 @@ ___
 - 3 categories and 18 puzzles
 
 ## Screenshots
-- ![](screenshots/screenshot1.jpg)
-- ![](screenshots/screenshot2.jpg)
-- ![](screenshots/screenshot3.jpg)
-- ![](screenshots/screenshot4.jpg)
+- <img src="screenshots/screenshot1.jpg" alt="screenshot1.jpg" width="500"/>
+- <img src="screenshots/screenshot2.jpg" alt="screenshot2.jpg" width="500"/>
+- <img src="screenshots/screenshot3.jpg" alt="screenshot3.jpg" width="500"/>
+- <img src="screenshots/screenshot4.jpg" alt="screenshot4.jpg" width="500"/>
