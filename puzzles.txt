@@ -1,0 +1,71 @@
+sci-fi moive
+The Truman Show
+all audience are big brother
+
+sci-fi moive
+Inception
+a top that spins indefinitely in a dream
+
+sci-fi moive
+The Matrix
+bullet time !!!
+
+sci-fi moive
+The Martian
+plant potatoes on Mars
+
+sci-fi moive
+Interstellar
+journey to save humanity through wormholes
+
+sci-fi moive
+Edge of Tomorrow
+for tomorrow, a thousand times over
+
+game character
+Mario
+the plumber who saved American video game industry
+
+game character
+Tommy
+king of Vice City
+
+game character
+Master Chief
+a towering supersoldier known as a "Spartan"
+
+game character
+Steve
+two blocks tall pixel man
+
+game character
+Kirby
+pink big eater
+
+game character
+Ganon
+Link defeated him 19 times since 1986
+
+programming language
+java
+System.out.println("Hello world");
+
+programming language
+c plus plus
+std::cout << "hello world";
+
+programming language
+python
+def function():print('hello world')
+
+programming language
+javascript
+console.log('hello world');
+
+programming language
+assembly
+msg: DB 'Hello World', 10
+
+programming language
+c sharp
+Console.WriteLine("Hello World");
